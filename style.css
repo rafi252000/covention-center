@@ -1,0 +1,54 @@
+.prymary-bt{
+    background-color: #F496D1;
+    border-radius: 24px;
+    width: 80%;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.tooltip{
+    background-color: #FF4E4E;
+    width: 46px;
+    height: 27px;
+}
+.footer{
+    width: 135px;
+    height: 40px;
+}
+.contact{
+    width: 50%;
+    margin: 100px auto;         
+}
+.contact-section{
+    font-family: 'Poppins', sans-serif;
+    color: #681919;
+    text-align: center;
+}
+.contact-section h3{
+    color: #d14444;
+}
+
+.input-btn{
+    height: 30px;
+    width: 100%;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.txtarea{
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+}
+.Submit-button{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    height: 30px;
+    border-radius: 15px;
+    border: 0;
+    padding: 15px;
+}
