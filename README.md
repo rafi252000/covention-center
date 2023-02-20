@@ -1,2 +1,2 @@
 ﻿# covention-center
-live server:convention-center-rafi252000.netlify.app
+live server: https://convention-center-rafi252000.netlify.app
